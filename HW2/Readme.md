@@ -16,7 +16,7 @@ conda create -n p36 python=3.6.8
 2.switch anaconda to 'p36', the default is called 'base',
 
 
-3.install CMD.exe Prompt after switching environment by clicking the CMD symbol in GUI.
+3.install CMD.exe Prompt by clicking the CMD symbol in GUI after switching environment 
 
 4.install required python package below by opening the CMD.exe, 
 ```console
